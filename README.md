@@ -1,4 +1,4 @@
-# SmartBrain
+# SmartBrain - frontend
 
 
 1. Clone this repo
